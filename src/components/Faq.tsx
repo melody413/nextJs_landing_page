@@ -25,6 +25,9 @@ export default function Faq() {
                 <Accordion
                     title="Is there a free version available?"
                 />
+                <Accordion
+                    title="Is this free?"
+                />
             </div>
         </div>
     );
